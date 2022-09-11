@@ -1,7 +1,7 @@
 {
 "Result":"Success",
-"Notes":"Added a backup updater to increase reliability of updates.",
-"Version":"1.0.2",
-"Release":"2022-09-04",
-"URL":"https://www.icloud.com/shortcuts/20f1241fc63240e7b91c34bb78c32085"
+"Notes":"With this version of Multi Service Status Checker you can now check the status of GitHub and Routinehub.",
+"Version":"1.0.3",
+"Release":"2022-09-11",
+"URL":"https://www.icloud.com/shortcuts/ba14869c0c714939be2a3049d8dbcd9d"
 }
