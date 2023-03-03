@@ -1,7 +1,7 @@
 {
 "Result":"Success",
-"Notes":"When checking Nintendo's Network Status on iOS 16, the page may display incorrectly. That has been fixed in this update of Multi Service Status Checker.",
-"Version":"1.0.4",
-"Release":"2022-09-24",
-"URL":"https://www.icloud.com/shortcuts/695048d961a64d838890a90e28474f77"
+"Notes":"AdGuard Status was included with this update. This shortcut can now check if your connected to the internet before you check the status of services. Added the missing shortcut id used for updating this shortcut via Routinehub. This update requires being on iOS 16 or higher.",
+"Version":"1.0.5",
+"Release":"2023-03-03",
+"URL":"https://www.icloud.com/shortcuts/6071b2b1c1294436955078d6b80553c6"
 }
