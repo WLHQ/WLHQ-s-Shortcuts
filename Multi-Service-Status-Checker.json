@@ -1,7 +1,7 @@
 {
 "Result":"Success",
-"Notes":"AdGuard Status was included with this update. This shortcut can now check if your connected to the internet before you check the status of services. Added the missing shortcut id used for updating this shortcut via Routinehub. This update requires being on iOS 16 or higher.",
-"Version":"1.0.5",
-"Release":"2023-03-03",
-"URL":"https://www.icloud.com/shortcuts/6071b2b1c1294436955078d6b80553c6"
+"Notes":"CloudFlare Status was included with this update. This update requires being on iOS 16 or higher.",
+"Version":"1.0.6",
+"Release":"2023-03-05",
+"URL":"https://www.icloud.com/shortcuts/b3e66c0f5a4249a69b1bf321162f3a7e"
 }
