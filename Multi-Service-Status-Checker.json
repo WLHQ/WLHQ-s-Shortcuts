@@ -1,13 +1,10 @@
 {
 "Result":"Success",
 "Notes":"Shortcut name was changed, now called Service Status Checker. 
-
 You can now check the status of the following services below: 
-
 * GeForce NOW 
 * PlayStation Network
 * Xbox Live
-
 This update requires being on iOS 16 or higher.",
 "Version":"1.0.7",
 "Release":"2023-03-05",
