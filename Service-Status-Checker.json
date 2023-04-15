@@ -1,7 +1,7 @@
 {
 "Result":"Success",
-"Notes":"Midjourney has been added in this version of Service Status Checker. And Routinehub Status had its link changed so no more 404 Errors!",
-"Version":"1.1.2",
-"Release":"2023-04-08",
-"URL":"https://www.icloud.com/shortcuts/10974ce9755c4c089fd800b9c94e4ca4"
+"Notes":"Fixed the Xbox Status link. Improvements to the user experience.",
+"Version":"1.1.3",
+"Release":"2023-04-15",
+"URL":"https://www.icloud.com/shortcuts/29c8c7ff92ed4d2bb9936dc440a2ef59"
 }
