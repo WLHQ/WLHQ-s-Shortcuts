@@ -1,7 +1,7 @@
 {
 "Result":"Success",
-"Notes":"Descriptions for AdGuard & CloudFlare were updated.",
-"Version":"1.1.8",
-"Release":"2023-06-28",
-"URL":"https://www.icloud.com/shortcuts/e2cdbfcd30294ad0b84b0d3dde098143"
+"Notes":"Service Status Checker will now check for updates when the shortcut is ran.",
+"Version":"1.1.9",
+"Release":"2023-07-04",
+"URL":"https://www.icloud.com/shortcuts/f79acfe3bd414a7e8ef7f7b0bc5844b6"
 }
