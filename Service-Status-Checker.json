@@ -1,7 +1,7 @@
 {
 "Result":"Success",
-"Notes":"Service Status Checker will now check for updates when the shortcut is ran.",
-"Version":"1.1.9",
-"Release":"2023-07-04",
-"URL":"https://www.icloud.com/shortcuts/f79acfe3bd414a7e8ef7f7b0bc5844b6"
+"Notes":"Service Status Checker will now check if your using this shortcut on WiFi or on Cellular Data for awareness of those that are on limited data plans. Install the update to use this feature.",
+"Version":"1.2.0",
+"Release":"2023-07-07",
+"URL":"https://www.icloud.com/shortcuts/d505931701214217a516870a089bb95e"
 }
