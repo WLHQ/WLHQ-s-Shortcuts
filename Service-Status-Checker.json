@@ -1,7 +1,7 @@
 {
 "Result":"Success",
-"Notes":"Updated some outdated information.",
-"Version":"1.3.0",
-"Release":"2024-06-17",
-"URL":"https://www.icloud.com/shortcuts/ead42c5adc9740789643dfae6f034891"
+"Notes":"If the menu options are accidentally deleted by the user, the shortcut will now redirect to a fresh copy of Service Status Checker automatically.",
+"Version":"1.3.1",
+"Release":"2024-09-18",
+"URL":"https://www.icloud.com/shortcuts/97a8a43690104df28272f3476546a922"
 }
